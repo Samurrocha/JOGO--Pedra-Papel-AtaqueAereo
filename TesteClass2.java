@@ -4,6 +4,8 @@
 *papel perde todos
 */
 
+//digite primeiro quatas rodadas serão jogadas, logo após escreva oq cada jogador irá jogar
+
 import java.util.*;
 
 public class TesteClass2 {
